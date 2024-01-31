@@ -1,2 +1,2 @@
-hello = "Hello, World!"
-print(hello)
+#!/bin/python3
+print("Hello, World!")
